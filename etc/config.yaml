@@ -1,0 +1,8 @@
+---
+  src_dir: "/Users/daemon1/Prod/prod2/spaces-search-rs/src"
+  etc_dir: "/Users/daemon1/Prod/prod2/spaces-search-rs/etc"
+  log_dir: "/Users/daemon1/Prod/prod2/spaces-search-rs/log"
+  work_dir: "/users/daemon1/Prod/prod2/spaces-search-rs/work"
+
+  bearer_token: ""
+  topics_file: ""
