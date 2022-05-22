@@ -5,5 +5,5 @@
 
 ### Output
 <p align="center" width="15%" size="50%">
-   <img src="work/.png">  
+   <img src="work/test1_space_search_rs.png">  
 </p>
