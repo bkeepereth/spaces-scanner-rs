@@ -1,1 +1,1 @@
-# spaces-search-rs
+# spaces-scanner-rs
